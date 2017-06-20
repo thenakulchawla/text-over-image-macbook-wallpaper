@@ -1,4 +1,5 @@
 from appscript import app, mactypes
+import subprocess
 import os
 import textwrap
 from random import randint
@@ -20,6 +21,11 @@ def change_quote(quoteAddress, imageAddress, newImageAddress):
 def change_desktop_wallpaper(imageAddress):
     app('Finder').desktop_picture.set(mactypes.File(imageAddress))
     os.system("Killall Dock")
+    #Script = ''' osascript -e 'tell application "System Events" to set picture of the current desktop to POSIX file "/Users/princechawla/timepass/quotesWall/myquotewallpaper.jpg" ' '''
+    #os.system(Script)
+    #os.system(''' osascript -e tell application "Finder" to set desktop picture to POSIX file "/Users/princechawla/timepass/quotesWall/myquotewallpaper.jpg" ''')
+    #subprocess.Popen(Script , shell=True)
+    #os.system("killall Dock")
 
 def get_quote(quoteAddress):
     with open(quoteAddress) as quote_file:

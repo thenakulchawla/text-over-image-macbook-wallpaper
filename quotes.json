@@ -55,7 +55,36 @@
 		{
 			"id" : 13,
 			"quote" : "Existence is a series of footnotes to a vast obscure, unfinished masterpiece."
+		},
+		{
+			"id" : 14,
+			"quote" : "We accept the love we think we deserve."
+		},
+		{
+			"id" : 15,
+			"quote" : "She was the third beer. Not the first one, which the throat receives with almost tearful gratitude; nor the second, that confirms and extends the pleasure of the first. But the third,	the one you drink because it's there, because it can't hurt, and because what difference does it make?"
+		},
+		{
+			"id" : 16,
+			"quote" : "But if thought corrupts language, language also corrupts thought."
+		},
+		{
+			"id" : 17,
+			"quote" : "The choice for mankind lies between freedom and happiness and for the great bulk of mankind, happiness is better."
+		},
+		{
+			"id" : 18,
+			"quote" : "One does not establish a dictatorship in order to safeguard a revolution; One makes the revolution in order to establish the dictatorship."
+		},
+		{
+			"id" : 19,
+			"quote" : "Until I feared I would lose it, I never loved to read. One does not love breathing."
+		},
+		{
+			"id" : 20,
+			"quote" : "Hating you shall be a game played with cool hands."
 		}
+
 
 	]
 }
