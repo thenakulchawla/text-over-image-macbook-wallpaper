@@ -6,85 +6,75 @@
 		},
 		{
 			"id" : 1,
-			"quote" : "4AM knows all my secrets"
-		},
-		{
-			"id" : 2,
 			"quote" : "Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing"
 		},
 		{
-			"id" : 3,
+			"id" : 2,
 			"quote" : "There is nothing to writing. All you have to do is sit down at a typewriter and bleed."
 		},
 		{
-			"id" : 4,
+			"id" : 3,
 			"quote" : "That's what careless words do, they make people love you a little less."
 		},
 		{
-			"id" : 5,
+			"id" : 4,
 			"quote" : "I wondered if that's how forgiveness budded, not with the fanfare of epiphany, but with pain gathering it's things, packing up, and slipping away unannounced in the middle of night ."
 		},
 		{
-			"id" : 6,
+			"id" : 5,
 			"quote" : "The best books are those that tell you what you know already."
 		},
 		{
-			"id" : 7,
+			"id" : 6,
 			"quote" : "The way her body existed only where he touched her. The rest of her was smoke."
 		},
 		{
-			"id" : 8,
+			"id" : 7,
 			"quote" : "If you're happy in a dream, does that count?"
 		},
 		{
-			"id" : 9,
-			"quote" : "Humans are animals of habit."
-		},
-		{
-			"id" : 10,
+			"id" : 8,
 			"quote" : "This was the trouble with families. Like invidious doctors, they knew just where to hurt."
 		},
 		{
-			"id" : 11,
+			"id" : 9,
 			"quote" : "And the air was full of thoughts and words to say. But at times like these, only small things are ever said. Big things lurk unsaid inside."
 		},
 		{
-			"id" : 12,
+			"id" : 10,
 			"quote" : "There are things you can't do - like writing letters to a part of yourself. To your feet or hair. Or heart."
 		},
 		{
-			"id" : 13,
+			"id" : 11,
 			"quote" : "Existence is a series of footnotes to a vast obscure, unfinished masterpiece."
 		},
 		{
-			"id" : 14,
+			"id" : 12,
 			"quote" : "We accept the love we think we deserve."
 		},
 		{
-			"id" : 15,
-			"quote" : "She was the third beer. Not the first one, which the throat receives with almost tearful gratitude; nor the second, that confirms and extends the pleasure of the first. But the third,	the one you drink because it's there, because it can't hurt, and because what difference does it make?"
+			"id" : 13,
+			"quote" : "She was the third beer. Not the first one, which the throat receives with almost tearful gratitude; nor the second, that confirms and extends the pleasure of the first. But the third, the one you drink because it's there, because it's there, because it can't hurt, and because what difference does it make?"
 		},
 		{
-			"id" : 16,
+			"id" : 14,
 			"quote" : "But if thought corrupts language, language also corrupts thought."
 		},
 		{
-			"id" : 17,
+			"id" : 15,
 			"quote" : "The choice for mankind lies between freedom and happiness and for the great bulk of mankind, happiness is better."
 		},
 		{
-			"id" : 18,
+			"id" : 16,
 			"quote" : "One does not establish a dictatorship in order to safeguard a revolution; One makes the revolution in order to establish the dictatorship."
 		},
 		{
-			"id" : 19,
+			"id" : 17,
 			"quote" : "Until I feared I would lose it, I never loved to read. One does not love breathing."
 		},
 		{
-			"id" : 20,
+			"id" : 18,
 			"quote" : "Hating you shall be a game played with cool hands."
 		}
-
-
 	]
 }
