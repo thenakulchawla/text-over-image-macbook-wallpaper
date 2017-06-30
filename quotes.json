@@ -2,79 +2,87 @@
 	"quotes": [
 		{ 
 			"id" : 0,
-			"quote" : "The creatures outside looked from pig to man, and from man to pig , and from pig to man again: but already it was impossible to say which was which."
+			"quote" : "The creatures outside looked from pig to man, and from man to pig , and from pig to man again: but already it was impossible to say which was which. -George Orwell"
 		},
 		{
 			"id" : 1,
-			"quote" : "Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing"
+			"quote" : "Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing. -Arundhati Roy"
 		},
 		{
 			"id" : 2,
-			"quote" : "There is nothing to writing. All you have to do is sit down at a typewriter and bleed."
+			"quote" : "There is nothing to writing. All you have to do is sit down at a typewriter and bleed. -Ernest Hemingway"
 		},
 		{
 			"id" : 3,
-			"quote" : "That's what careless words do, they make people love you a little less."
+			"quote" : "That's what careless words do, they make people love you a little less. -Arundhati Roy"
 		},
 		{
 			"id" : 4,
-			"quote" : "I wondered if that's how forgiveness budded, not with the fanfare of epiphany, but with pain gathering it's things, packing up, and slipping away unannounced in the middle of night ."
+			"quote" : "I wondered if that's how forgiveness budded, not with the fanfare of epiphany, but with pain gathering it's things, packing up, and slipping away unannounced in the middle of night . -Khaled Hosseini"
 		},
 		{
 			"id" : 5,
-			"quote" : "The best books are those that tell you what you know already."
+			"quote" : "The best books are those that tell you what you know already. -George Orwell"
 		},
 		{
 			"id" : 6,
-			"quote" : "The way her body existed only where he touched her. The rest of her was smoke."
+			"quote" : "The way her body existed only where he touched her. The rest of her was smoke. -Arundhati Roy"
 		},
 		{
 			"id" : 7,
-			"quote" : "If you're happy in a dream, does that count?"
+			"quote" : "If you're happy in a dream, does that count? -Arundhati Roy"
 		},
 		{
 			"id" : 8,
-			"quote" : "This was the trouble with families. Like invidious doctors, they knew just where to hurt."
+			"quote" : "This was the trouble with families. Like invidious doctors, they knew just where to hurt. -Arundhati Roy"
 		},
 		{
 			"id" : 9,
-			"quote" : "And the air was full of thoughts and words to say. But at times like these, only small things are ever said. Big things lurk unsaid inside."
+			"quote" : "And the air was full of thoughts and words to say. But at times like these, only small things are ever said. Big things lurk unsaid inside. -Arundhati Roy"
 		},
 		{
 			"id" : 10,
-			"quote" : "There are things you can't do - like writing letters to a part of yourself. To your feet or hair. Or heart."
+			"quote" : "There are things you can't do - like writing letters to a part of yourself. To your feet or hair. Or heart. -Arundhati Roy"
 		},
 		{
 			"id" : 11,
-			"quote" : "Existence is a series of footnotes to a vast obscure, unfinished masterpiece."
+			"quote" : "Existence is a series of footnotes to a vast obscure, unfinished masterpiece. -Vladimir Nabokov"
 		},
 		{
 			"id" : 12,
-			"quote" : "We accept the love we think we deserve."
+			"quote" : "We accept the love we think we deserve. -Stephen Chbosky"
 		},
 		{
 			"id" : 13,
-			"quote" : "She was the third beer. Not the first one, which the throat receives with almost tearful gratitude; nor the second, that confirms and extends the pleasure of the first. But the third, the one you drink because it's there, because it's there, because it can't hurt, and because what difference does it make?"
+			"quote" : "She was the third beer. Not the first one, which the throat receives with almost tearful gratitude; nor the second, that confirms and extends the pleasure of the first. But the third, the one you drink because it's there, because it can't hurt, and because what difference does it make? -Toni Morrison"
 		},
 		{
 			"id" : 14,
-			"quote" : "But if thought corrupts language, language also corrupts thought."
+			"quote" : "But if thought corrupts language, language also corrupts thought. -George Orwell"
 		},
 		{
 			"id" : 15,
-			"quote" : "The choice for mankind lies between freedom and happiness and for the great bulk of mankind, happiness is better."
+			"quote" : "The choice for mankind lies between freedom and happiness and for the great bulk of mankind, happiness is better. -George Orwell"
 		},
 		{
 			"id" : 16,
-			"quote" : "One does not establish a dictatorship in order to safeguard a revolution; One makes the revolution in order to establish the dictatorship."
+			"quote" : "One does not establish a dictatorship in order to safeguard a revolution; One makes the revolution in order to establish the dictatorship. -George Orwell"
 		},
 		{
 			"id" : 17,
-			"quote" : "Until I feared I would lose it, I never loved to read. One does not love breathing."
+			"quote" : "Until I feared I would lose it, I never loved to read. One does not love breathing. -Harper Lee"
 		},
 		{
 			"id" : 18,
-			"quote" : "Hating you shall be a game played with cool hands."
+			"quote" : "Hating you shall be a game played with cool hands. -Gwendolyn Bennet"
+		},
+		{
+			"id" : 19,
+			"quote" : "The moment passed in a heartbeat. But it did not matter. What mattered was it existed. -Arundhati Roy"
+		},
+		{
+			"id" : 20,
+			"quote" : "Addiction has its own mnemonics - skin, smell, the length of of the loved one's finger. -Arundhati Roy"
 		}
 	]
 }
