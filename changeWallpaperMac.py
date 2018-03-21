@@ -36,8 +36,8 @@ def get_quote(quoteAddress):
     return quoteToReturn
 
 if __name__ == "__main__":
-    image_before = 'grey.jpg'
+    image_before = 'iu.jpeg'
     image_after= 'myQuoteWallpaper.jpg'
-    quotes = 'quotes.json'
+    quotes = 'cAndH.json'
     change_quote(quotes , image_before, image_after)
     change_desktop_wallpaper(image_after)
