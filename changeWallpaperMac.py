@@ -11,11 +11,11 @@ from PIL import ImageDraw
 def change_quote(quoteAddress, imageAddress, newImageAddress):
     img = Image.open(imageAddress)
     W, H = img.size
-    font = ImageFont.truetype("/Library/Fonts/Comic Sans MS.ttf", 45)
+    font = ImageFont.truetype("/Library/Fonts/Times New Roman Italic.ttf", 35)
     draw = ImageDraw.Draw(img)
     msg = textwrap.fill(get_quote(quoteAddress),50)
     w, h = draw.textsize(msg)
-    draw.text(((W-w)/4,(H-h)/4) , msg , (255 , 255 , 255) , font=font)
+    draw.text(((W-w)/3,(H-h)/4) , msg , (255 , 255 , 255) , font=font)
     img.save(newImageAddress)
 
 def change_desktop_wallpaper(imageAddress):
