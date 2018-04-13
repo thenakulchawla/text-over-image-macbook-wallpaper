@@ -24,6 +24,10 @@
         {
             "id" : 5,
             "quote" : "Calvin: It’s a magical world, Hobbes, ol’ buddy…Let’s go exploring!"
+        },
+        {
+            "id" : 6,
+            "quote" : "If people sat outside and looked at the stars each night, I'll bet they'd live a lot differently."
         }
 
     ]
